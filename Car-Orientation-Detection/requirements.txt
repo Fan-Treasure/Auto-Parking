@@ -1,0 +1,5 @@
+numpy
+paddlepaddle-gpu==2.3.2
+opencv-python==3.4.18
+scikit-image
+imageio
