@@ -1,10 +1,10 @@
 # Car Orientation Detection
 
-[English](https://github.com/Fan-Treasure/Auto-Parking/blob/Car-Orientation-Detection/README_en.md) | [简体中文](https://github.com/Fan-Treasure/Auto-Parking/blob/Car-Orientation-Detection/README_en.md)
+[English](https://github.com/Fan-Treasure/Auto-Parking/blob/main/Car-Orientation-Detection/README_en.md) | [简体中文](https://github.com/Fan-Treasure/Auto-Parking/blob/main/Car-Orientation-Detection/README_cn.md)
 
 ## Introduction
 
-Shandong University (Weihai) 2020 Data Science and Artificial Intelligence Experimental Class Computer Vision (1) Big Assignment Part I: Car Recognition and Orientation Detection.
+Shandong University (Weihai) 2020 Data Science and Artificial Intelligence Experimental Class Computer Vision (1) Assignment Part I: Car Recognition and Orientation Detection.
 
 We use PP-YOLOv2 for car recognition and orientation detection, and our own network for orientation detection, both of which are trained in Baidu AI Studio and deployed locally.
 
