@@ -1,6 +1,6 @@
 # 小车识别及方向检测
 
-[English](https://github.com/Fan-Treasure/Auto-Parking/blob/Car-Orientation-Detection/README_en.md) | [简体中文](https://github.com/Fan-Treasure/Auto-Parking/blob/Car-Orientation-Detection/README_cn.md)
+[English](https://github.com/Fan-Treasure/Auto-Parking/edit/main/Car-Orientation-Detection/README_cn.md) | [简体中文](https://github.com/Fan-Treasure/Auto-Parking/edit/main/Car-Orientation-Detection/README_cn.md)
 
 ## 简介
 
