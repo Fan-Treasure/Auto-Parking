@@ -4,4 +4,4 @@ Shandong University (Weihai) 2020 Data Science and Artificial Intelligence Exper
 
 ## Part 1 Car-Orientation-Detection
 
-Click [here](https://github.com/Fan-Treasure/Auto-Parking/blob/main/Car-Orientation-Detection/README_en.md) for details.
+Click [here](https://github.com/Fan-Treasure/Auto-Parking/blob/main/Car-Orientation-Detection/README.md) for details.
