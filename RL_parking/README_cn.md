@@ -1,6 +1,6 @@
 # 强化学习自动泊车
 
-[English](https://github.com/Fan-Treasure/Auto-Parking/blob/RL-Parking/README_en.md) | [简体中文](https://github.com/Fan-Treasure/Auto-Parking/blob/RL-Parking/README_cn.md)
+[English](https://github.com/Fan-Treasure/Auto-Parking/blob/main/RL_parking/README.md) | [简体中文](https://github.com/Fan-Treasure/Auto-Parking/blob/main/RL_parking/README_cn.md)
 
 ## 简介
 
