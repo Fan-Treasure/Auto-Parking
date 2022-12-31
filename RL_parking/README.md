@@ -1,6 +1,6 @@
 # RL parking
 
-[English](https://github.com/Fan-Treasure/Auto-Parking/blob/RL-Parking/README_en.md) | [简体中文](https://github.com/Fan-Treasure/Auto-Parking/blob/RL-Parking/README_cn.md)
+[English](https://github.com/Fan-Treasure/Auto-Parking/blob/RL-Parking/README.md) | [简体中文](https://github.com/Fan-Treasure/Auto-Parking/blob/RL-Parking/README_cn.md)
 
 ## Introduction
 
