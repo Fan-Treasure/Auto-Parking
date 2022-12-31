@@ -36,7 +36,7 @@
 - 克隆本项目
 
 ```
-git clone https://github.com/Xujialu/Auto-Parking/Car-Direction-Detection
+git clone https://github.com/Fan-Treasure/Auto-Parking/Car-Direction-Detection
 ```
 
 - 进入项目目录
