@@ -36,7 +36,7 @@ For general information about how to install PaddleDetection, please see [Paddle
 - Clone this project
 
 ```
-git clone https://github.com/Fan-Treasure/Auto-Parking/Car-Orientation-Detection
+https://github.com/Fan-Treasure/Auto-Parking.git
 ```
 
 - Go to the project directory
