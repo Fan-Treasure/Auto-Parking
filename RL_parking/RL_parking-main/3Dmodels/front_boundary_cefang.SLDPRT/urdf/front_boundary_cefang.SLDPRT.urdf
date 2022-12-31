@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This URDF was automatically created by SolidWorks to URDF Exporter! Originally created by Stephen Brawner (brawner@gmail.com) 
+     Commit Version: 1.5.1-0-g916b5db  Build Version: 1.5.7152.31018
+     For more information, please see http://wiki.ros.org/sw_urdf_exporter -->
+<robot
+  name="front_boundary_cefang.SLDPRT">
+  <link
+    name="front_boundary_cefang.SLDPRT">
+    <inertial>
+      <origin
+        xyz="0.21 -0.01 0.05"
+        rpy="0 0 0" />
+      <mass
+        value="0.84" />
+      <inertia
+        ixx="0.000728"
+        ixy="-4.1202E-20"
+        ixz="-5.1435E-21"
+        iyy="0.013048"
+        iyz="-4.11467734884319E-20"
+        izz="0.012376" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="1.5707963267949 0 0" />
+      <geometry>
+        <mesh
+          filename="package://front_boundary_cefang.SLDPRT/meshes/front_boundary_cefang.SLDPRT.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+        <texture
+          filename="package://front_boundary_cefang.SLDPRT/textures/" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="1.5707963267949 0 0" />
+      <geometry>
+        <mesh
+          filename="package://front_boundary_cefang.SLDPRT/meshes/front_boundary_cefang.SLDPRT.STL" />
+      </geometry>
+    </collision>
+  </link>
+</robot>

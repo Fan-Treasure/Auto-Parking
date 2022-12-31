@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This URDF was automatically created by SolidWorks to URDF Exporter! Originally created by Stephen Brawner (brawner@gmail.com) 
+     Commit Version: 1.5.1-0-g916b5db  Build Version: 1.5.7152.31018
+     For more information, please see http://wiki.ros.org/sw_urdf_exporter -->
+<robot
+  name="side_boundary_shuku.SLDPRT">
+  <link
+    name="side_boundary_shuku.SLDPRT">
+    <inertial>
+      <origin
+        xyz="0.01 -0.15 0.05"
+        rpy="0 0 0" />
+      <mass
+        value="0.6" />
+      <inertia
+        ixx="0.005"
+        ixy="8.7829E-19"
+        ixz="5.50010000000005E-21"
+        iyy="0.00052"
+        iyz="2.44921270764475E-19"
+        izz="0.00452" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="1.5707963267949 0 0" />
+      <geometry>
+        <mesh
+          filename="package://side_boundary_shuku.SLDPRT/meshes/side_boundary_shuku.SLDPRT.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+        <texture
+          filename="package://side_boundary_shuku.SLDPRT/textures/" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="1.5707963267949 0 0" />
+      <geometry>
+        <mesh
+          filename="package://side_boundary_shuku.SLDPRT/meshes/side_boundary_shuku.SLDPRT.STL" />
+      </geometry>
+    </collision>
+  </link>
+</robot>
