@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Shandong University (Weihai) 2020 Data Science and Artificial Intelligence Experimental Class Computer Vision (1) Assignment Part I: Car Recognition and Orientation Detection.
+Shandong University (Weihai) 2020 Data Science and Artificial Intelligence Experimental Class Computer Vision (1) Project Part I: Car Recognition and Orientation Detection.
 
 We use PP-YOLOv2 for car recognition and orientation detection, and our own network for orientation detection, both of which are trained in Baidu AI Studio and deployed locally.
 
