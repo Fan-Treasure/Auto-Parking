@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Shandong University, Weihai Class of 2020 Data Science and Artificial Intelligence Experimental Class Computer Vision Assignment Part II: Reinforcement Learning Simulated Parking and Real Parking
+Shandong University, Weihai Class of 2020 Data Science and Artificial Intelligence Experimental Class Computer Vision Project Part II: Reinforcement Learning Simulated Parking and Real Parking
 
 This project is divided into two parts:
 
