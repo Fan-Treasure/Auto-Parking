@@ -1,6 +1,6 @@
 # Auto-Parking
 
-Shandong University, Weihai 2020 Data Science and Artificial Intelligence Experimental Class Computer Vision Assignment: Automatic parking.
+Shandong University, Weihai 2020 Data Science and Artificial Intelligence Experimental Class Computer Vision Project: Automatic parking.
 
 ## Part 1 Car-Orientation-Detection
 
