@@ -292,7 +292,7 @@ python render_env_video.py --mode=mode
 
 We first designed a map of the actual parking based on the simulated environment, with the same number, type and location of garages as in the simulated environment.
 
-<img src="D:\我的\作业\计算机视觉（1）\自动泊车大作业\第二部分\images\real_map.png" alt="real_map"  width = "500"/>
+<img src=".\images\real_map.png" alt="real_map"  width = "500"/>
 
 
 
@@ -300,20 +300,20 @@ We first designed a map of the actual parking based on the simulated environment
 
 1.  Fix the camera to the camera mount to capture the entire map and the car. The car is identified by taking a live picture of the camera, adding an anchor frame to the identified car using the car recognition model trained in the previous phase and obtaining the coordinates of the apex of the anchor frame to localise the car. The anchor frame is then placed into the car orientation detection model trained in the previous stage to predict the orientation of the car.
 
-<img src="D:\我的\作业\计算机视觉（1）\自动泊车大作业\第二部分\images\toward.png" alt="toward"  width = "500"/>
+<img src=".\images\toward.png" alt="toward"  width = "500"/>
 
 
 
 
 2. Once the car's position information has been obtained, the environment information, model path and reversing mode of the map are specified and the model file for the corresponding mode can be invoked to plan the trajectory for the automatic parking. A total of eight reversing modes are trained for use in the training process. After the call, the car's next target orientation and speed information is obtained and transmitted back to the car using communication. The car's servo and motor are controlled according to the change in target angle and speed, and the relevant functions are called and the parameters specified to control the car's movement.
 
-   <img src="D:\我的\作业\计算机视觉（1）\自动泊车大作业\第二部分\images\arduino.png" alt="arduino"  width = "600"/>
+   <img src=".\images\arduino.png" alt="arduino"  width = "600"/>
 
    
 
 3. During the movement of the car, the camera takes pictures and continuously calls up the model recognition, which continuously sends back motion commands to the car to control the automatic parking process.
 
-<img src="D:\我的\作业\计算机视觉（1）\自动泊车大作业\第二部分\images\sloping.gif" alt="sloping"/>
+<img src=".\images\sloping.gif" alt="sloping"/>
 
 
 
@@ -394,21 +394,21 @@ python real_parking.py
 
 ## Results
 
-<img src="D:\我的\作业\计算机视觉（1）\自动泊车大作业\第二部分\images\sloping.gif" alt="sloping"/>
+<img src=".\images\sloping.gif" alt="sloping"/>
 
 
 
 
 ### 1. Inclined garage reversing
 
-<img src="D:\我的\作业\计算机视觉（1）\自动泊车大作业\第二部分\images\sloping.gif" alt="sloping"/>
+<img src=".\images\sloping.gif" alt="sloping"/>
 
 
 
 
 ### 2. Sideways garage reversing
 
-<img src="D:\我的\作业\计算机视觉（1）\自动泊车大作业\第二部分\images\sideways.gif" alt="sideways">
+<img src=".\images\sideways.gif" alt="sideways">
 
 
 
