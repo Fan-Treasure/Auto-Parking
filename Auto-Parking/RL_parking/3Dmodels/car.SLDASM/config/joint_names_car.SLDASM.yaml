@@ -1,0 +1,1 @@
+controller_joint_names: ['', 'lb_wheel', 'rb_wheel', 'servo', 'turn_l', 'lf_wheel', 'link_l', 'link_ll', 'turn_r', 'rf_wheel', 'link_rr', 'camera', ]
