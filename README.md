@@ -9,3 +9,7 @@ Click [here](https://github.com/Fan-Treasure/Auto-Parking/blob/main/Car-Orientat
 ## Part 2 RL-parking
 
 Click [here](https://github.com/Fan-Treasure/Auto-Parking/blob/main/RL_parking/README.md) for details.
+
+## Part 3 Auto-Parking
+
+Click [here](https://github.com/Fan-Treasure/Auto-Parking/blob/main/Auto-Parking/README.md) for details.
