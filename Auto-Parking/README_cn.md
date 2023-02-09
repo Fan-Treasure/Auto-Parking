@@ -1,6 +1,6 @@
 # 自动泊车
 
-[English](https://github.com/Fan-Treasure/Auto-Parking/blob/Auto-Parking/README_en.md) | [简体中文](https://github.com/Fan-Treasure/Auto-Parking/blob/Auto-Parking/README_cn.md)
+[English](https://github.com/Fan-Treasure/Auto-Parking/blob/main/Auto-Parking/README_en.md) | [简体中文](https://github.com/Fan-Treasure/Auto-Parking/blob/main/Auto-Parking/README_cn.md)
 
 # 简介
 
