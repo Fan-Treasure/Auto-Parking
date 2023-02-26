@@ -12,4 +12,4 @@ Click [here](https://github.com/Fan-Treasure/Auto-Parking/blob/main/RL_parking/R
 
 ## Part 3 Auto-Parking
 
-Click [here](https://github.com/Fan-Treasure/Auto-Parking/blob/main/Auto-Parking/README.md) for details.
+Click [here](https://github.com/Fan-Treasure/Auto-Parking/blob/main/Auto-Parking/) for details.
